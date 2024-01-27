@@ -1,11 +1,7 @@
-# SAI-INSTITUTE-AI
-## Open source artificial intelligence, unleashing unlimited possibilities
-## 🆕Wey SAI
+# Vue 3 + Vite
 
-### Research and development, design, and integrated research platform.
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
+## Recommended IDE Setup
 
-![屏幕截图 2024-01-17 131022](https://github.com/WeyStudio/SAI-INSTITUTE-AI/assets/122614217/e820e7a6-acef-456f-94dd-821f4b8da0f4)
-
-
-
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
